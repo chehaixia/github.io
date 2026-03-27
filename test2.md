@@ -18,10 +18,10 @@ Windows or Linux
 实验步骤与内容：
 利用GitHub平台创建自己的博客，发布文章。
 登陆自己的GitHub账号，创建新仓库，将仓库的名字命名成chehaixia.github.io
-![p1](/images/p1.png)
+<img src="/images/p1.png" alt="p1" width="800">
 
 并且create a new file，添加一个简单的README.md文件，自动创建新的分支main
-![p2](/images/p2.png)
+<img src="/images/p2.png" alt="p2" width="800">
 
 
 在仓库里settings里面找到pages页，source选Deploy from a branch，branch选刚刚创建的main分支，save之后准备好要发布的文章。

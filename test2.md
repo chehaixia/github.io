@@ -1,13 +1,12 @@
 山东大学   计算机科学与技术   学院
    云计算技术   课程实验报告
-?
 学号：202300130055	姓名：车海霞 	班级：计科2班 
 实验题目：利用云平台搭建个人博客
-实验学时：2	实验日期：    
+实验学时：2	实验日期：2026.3.27    
 实验目的：本实验旨在通过实践操作，掌握基于云计算环境的网站部署技能。
 具体包括：构建环境并实现个人博客/网站的搭建，撰写实验报告，并将这份报告作为一篇博文发布在自己的博客 / 网站上。
 
-硬件环境：?
+硬件环境：Linux
 联网的计算机一台
 
 
@@ -18,10 +17,10 @@ Windows or Linux
 实验步骤与内容：
 利用GitHub平台创建自己的博客，发布文章。
 登陆自己的GitHub账号，创建新仓库，将仓库的名字命名成chehaixia.github.io
-<img src="/images/p1.png" alt="p1" width="800">
+<img src="/images/P1.png" alt="p1" width="800">
 
 并且create a new file，添加一个简单的README.md文件，自动创建新的分支main
-<img src="/images/p2.png" alt="p2" width="800">
+<img src="/images/P2.png" alt="p2" width="800">
 
 
 在仓库里settings里面找到pages页，source选Deploy from a branch，branch选刚刚创建的main分支，save之后准备好要发布的文章。
